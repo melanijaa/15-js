@@ -47,7 +47,3 @@ const rez = n1 + n2
 // const ats = `${n1} + ${n2} = ${n1 + n2}`;
 const ats = `${n1} + ${n2} = ${rez}`;
 console.log(ats);
-
-const abc = 'ab"c\'de\\f';
-const abcDydis = abs.length
-console.log(`Abeceles "${abs}" dydis yra ${abcDydis} simboliu.`)

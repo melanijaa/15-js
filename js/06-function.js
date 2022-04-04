@@ -38,13 +38,13 @@ console.log('Ona:', onaVidurkis);
 */
 
 console.log('better way of doing it')
-function vidurkis(pazymiuSuma) {
-    let pazymiuSuma = 0;
-    pazymiuSuma += pazymiuSuma [0];
-    pazymiuSuma += pazymiuSuma [1];
-    pazymiuSuma += pazymiuSuma [2];
-    pazymiuSuma += pazymiuSuma [3];
-    return pazymiuSuma / pazymiuSarasas.length;
+function vidurkis(pazymiusum) {
+    let pazymiusum = 0;
+    pazymiusum += pazymiusum [0];
+    pazymiusum += pazymiusum [1];
+    pazymiusum += pazymiusum [2];
+    pazymiusum += pazymiusum [3];
+    return pazymiusum / pazymiuSarasas.length;
 }
 
 const petroVidurkis = vidurkis(petras);
