@@ -16,20 +16,20 @@ console.log(name);
 const lastname = "Petraitis"
 console.log(lastname);
 
-const viengubaKabute = "viengubos(')";
+const viengubaKabute = "viengubos(')"
 console.log(viengubaKabute);
 
-const dvigubaKabute = 'viengubos(")';
+const dvigubaKabute = 'viengubos(")'
 console.log(dvigubaKabute);
 
-const viengubakabutes12 = 'Cia yra vienguba (\') ir dviguba (") kabutes12.';
+const viengubakabutes12 = 'Cia yra vienguba (\') ir dviguba (") kabutes12.'
 console.log(viengubakabutes12);
 
-const dvigubabakabutes12 = "Cia yra vienguba (') ir dviguba (\") kabutes12.";
+const dvigubabakabutes12 = "Cia yra vienguba (') ir dviguba (\") kabutes12."
 console.log(dvigubabakabutes12);
 
 const kabutes12 = "Cia yra vienguba (\') ir dviguba (\") kabutes12.";
-console.log(dvigubabakabutes12);
+console.log(dvigubabakabutes12)
 
 const clientName =  'Maryte'
 const clientAge = 87;

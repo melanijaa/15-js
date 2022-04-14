@@ -370,3 +370,8 @@ function randomNumber(nuo, iki) {
 for (let i = 0; i < 20; i++) {
     console.log(randomNumber(0, 20));
 }
+
+console.log('--------')
+
+for(let i = 1; i < 5; i++){
+    console.log(i);}
